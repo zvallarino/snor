@@ -22,6 +22,10 @@ const LeftBox = () => {
       {/* Green Box */}
       {isVisible && (
         <div className="absolute top-0 left-0 w-[20%] h-full bg-green-500 z-10">
+          <div className="h-full bg-red-400">
+          <div></div>
+          <div></div>
+        </div>
           <button
             className="absolute top-2 right-2 text-white z-20"
             onClick={toggleVisibility}
