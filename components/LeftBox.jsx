@@ -54,7 +54,7 @@ const LeftBox = () => {
         
 
               {/* States Components */}
-              <div className ="flex flex-col bg-blue-300">
+              <div className ="flex flex-col bg-white">
                 <div className='flex w-full text-center  justify-center text-xl my-2 text-gray-700 font-bold'> Diesease By State</div>
                 <hr className="border-t-1 border-blue-950 rounded-full" />
                 {stateData.map((stateItem) => (

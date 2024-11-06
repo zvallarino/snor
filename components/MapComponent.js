@@ -1,5 +1,3 @@
-'use client';
-
 import React, { useMemo } from 'react';
 import {
   GoogleMap,
@@ -10,11 +8,13 @@ import {
 } from '@react-google-maps/api';
 import LeftBox from './LeftBox';
 import RightBox from './RightBox';
-import data from '../us_health_data.json'; // Importing us_health_data.json
+import data from '../us_hd.json'; // Importing us_health_data.json
 
 const MapComponent = () => {
   const mapRef = React.useRef(null);
   const [currentZoom, setCurrentZoom] = React.useState(5);
+    const [hoveredEntry, setHoveredEntry] = React.useState(null);
+
   const center = {
     lat: 39.8283,
     lng: -98.5795,
@@ -49,8 +49,8 @@ const MapComponent = () => {
       stylers: [{ visibility: 'off' }],
     },
   ];
-  
-  const options = {
+
+   const options = {
     styles: mapStyles,
     disableDefaultUI: false,
     zoomControl: true,
@@ -60,7 +60,6 @@ const MapComponent = () => {
     rotateControl: true,
     fullscreenControl: false,
   };
-  
 
   // Data Processing
   const monthToNumber = (month) => {
@@ -108,63 +107,99 @@ const MapComponent = () => {
   // State for managing InfoWindow
   const [selectedEntry, setSelectedEntry] = React.useState(null);
 
+  // Map Load Handler
+  const onLoad = React.useCallback((mapInstance) => {
+    mapRef.current = mapInstance;
+  }, []);
+
+  // Zoom Changed Handler
+  const onZoomChanged = React.useCallback(() => {
+    if (mapRef.current) {
+      const zoomLevel = mapRef.current.getZoom();
+      setCurrentZoom(zoomLevel);
+      console.log('Current Zoom Level:', zoomLevel);
+    }
+  }, []);
+
   return (
     <div className="relative w-full h-screen">
-      <LoadScript
-        googleMapsApiKey={process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}
-      >
+      <LoadScript googleMapsApiKey={process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}>
         <GoogleMap
-          ref={mapRef}
+          onLoad={(mapInstance) => (mapRef.current = mapInstance)}
+          onZoomChanged={() => {
+            if (mapRef.current) {
+              const zoomLevel = mapRef.current.getZoom();
+              setCurrentZoom(zoomLevel);
+              console.log('Current Zoom Level:', zoomLevel);
+            }
+          }}
           mapContainerClassName="w-full h-full"
           center={center}
           zoom={zoom}
           options={options}
-          onZoomChanged={() => {
-            const zoomLevel = mapRef.current?.getZoom();
-            setCurrentZoom(zoomLevel);
-            console.log('Current Zoom Level:', zoomLevel);
-          }}
         >
-          {/* Use MarkerClustererF to cluster markers */}
           <MarkerClusterer
             options={{
               gridSize: 80,
               maxZoom: 12,
+              minimumClusterSize: 5,
+
+              calculator: function (markers, numStyles) {
+                let index = 0;
+                const count = markers.length;
+
+                if (count < 16) {
+                  index = 0; // Small cluster
+                } else if (count >= 16 && count < 40) {
+                  index = 1; // Medium cluster
+                } else {
+                  index = 2; // Large cluster
+                }
+
+                return {
+                  text: count.toString(),
+                  index: index + 1,
+                  title: 'Cluster of ' + count + ' markers',
+                };
+              },
               styles: [
                 {
                   url: '/yellow.png',
-                  height: 20,
-                  width: 20,
+                  height: 40,
+                  width: 40,
                   textColor: '#ffffff',
                   textSize: 14,
                 },
                 {
-                  url: '/p.png',
-                  height: 50,
-                  width: 50,
+                  url: '/blue.png',
+                  height: 60,
+                  width: 60,
                   textColor: '#ffffff',
                   textSize: 16,
                 },
                 {
-                  url: '/reddot-hi.png',
-                  height: 60,
-                  width: 60,
+                  url: '/high.png',
+                  height: 70,
+                  width: 70,
                   textColor: '#ffffff',
                   textSize: 18,
                 },
               ],
             }}
           >
-            {(clusterer) =>
+     {(clusterer) =>
+              window.google &&
               latestData.map((entry, index) => (
                 <Marker
                   key={index}
                   position={{ lat: entry.lat, lng: entry.long }}
                   clusterer={clusterer}
                   onClick={() => setSelectedEntry(entry)}
+                  onMouseOver={() => setHoveredEntry(entry)}
+                  onMouseOut={() => setHoveredEntry(null)}
                   icon={{
                     path: window.google.maps.SymbolPath.CIRCLE,
-                    scale: Math.log(entry.count) * 5, // Adjust marker size based on count
+                    scale: Math.max(3, Math.log(entry.count) * 3), // Adjusted scale
                     fillColor: '#FF0000',
                     fillOpacity: 0.6,
                     strokeWeight: 0.4,
@@ -174,7 +209,7 @@ const MapComponent = () => {
             }
           </MarkerClusterer>
 
-          {/* InfoWindow */}
+          {/* InfoWindow for Clicked Marker */}
           {selectedEntry && (
             <InfoWindow
               position={{ lat: selectedEntry.lat, lng: selectedEntry.long }}
@@ -187,6 +222,27 @@ const MapComponent = () => {
                 <p>
                   <em>
                     {selectedEntry.month} {selectedEntry.year}
+                  </em>
+                </p>
+              </div>
+            </InfoWindow>
+          )}
+
+          {/* InfoWindow for Hovered Marker */}
+          {hoveredEntry && (
+            <InfoWindow
+              position={{ lat: hoveredEntry.lat, lng: hoveredEntry.long }}
+              options={{ pixelOffset: new window.google.maps.Size(0, -30) }}
+              onCloseClick={() => setHoveredEntry(null)}
+              className='text-black'
+            >
+              <div>
+                <h2 className="font-bold text-black">{hoveredEntry.state}</h2>
+                <p       className='text-black'>Disease: {hoveredEntry.disease}</p>
+                <p  className='text-black'>Cases: {hoveredEntry.count}</p>
+                <p>
+                  <em  className='text-black' >
+                    {hoveredEntry.month} {hoveredEntry.year}
                   </em>
                 </p>
               </div>

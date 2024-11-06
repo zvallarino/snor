@@ -35,7 +35,7 @@ const RightBox = () => {
 
       {/* Pink Box */}
       {isVisible && (
-        <div className="absolute top-0 right-0 w-[20%] mt-32 h-full  z-10">
+        <div className="absolute top-0 right-0 w-[20%] mt-32 h-1/2 z-10">
           <div className="">
             <div className="h-[96%] bg-white">
             <div className="h-1/3 bg-white">
