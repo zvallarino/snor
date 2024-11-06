@@ -1,0 +1,3502 @@
+[
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "August 2023",
+  "Count": 30
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "February 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "February 2024",
+  "Count": 3
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "January 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "January 2024",
+  "Count": 3
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "July 2023",
+  "Count": 33
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "June 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "March 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "May 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "November 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "October 2023",
+  "Count": 93
+ },
+ {
+  "Disease": "Arboviral Diseases",
+  "Date": "September 2023",
+  "Count": 129
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "April 2023",
+  "Count": 28.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "August 2023",
+  "Count": 520.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "December 2023",
+  "Count": 34.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "February 2023",
+  "Count": 13.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "February 2024",
+  "Count": 16.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "January 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "January 2024",
+  "Count": 28.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "July 2023",
+  "Count": 620.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "June 2023",
+  "Count": 192
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "March 2023",
+  "Count": 25.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "May 2023",
+  "Count": 55.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "November 2023",
+  "Count": 100.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "October 2023",
+  "Count": 154.5
+ },
+ {
+  "Disease": "Babesiosis",
+  "Date": "September 2023",
+  "Count": 240
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "April 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "August 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "December 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "February 2024",
+  "Count": 3
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "January 2024",
+  "Count": 3
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "July 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "June 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "March 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "May 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "November 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "October 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Botulism",
+  "Date": "September 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "August 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "February 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "February 2024",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "January 2024",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "July 2023",
+  "Count": 16.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "June 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "May 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "October 2023",
+  "Count": 16.5
+ },
+ {
+  "Disease": "Brucellosis",
+  "Date": "September 2023",
+  "Count": 15
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "April 2023",
+  "Count": 5673.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "August 2023",
+  "Count": 7972
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "December 2023",
+  "Count": 5874
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "February 2023",
+  "Count": 2620.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "February 2024",
+  "Count": 2389.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "January 2023",
+  "Count": 1794
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "January 2024",
+  "Count": 7720.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "July 2023",
+  "Count": 9492.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "June 2023",
+  "Count": 7363.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "March 2023",
+  "Count": 4299
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "May 2023",
+  "Count": 7147.5
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "November 2023",
+  "Count": 6771
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "October 2023",
+  "Count": 7878
+ },
+ {
+  "Disease": "Campylobacteriosis",
+  "Date": "September 2023",
+  "Count": 8506.5
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "April 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "August 2023",
+  "Count": 150
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "December 2023",
+  "Count": 91.5
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "February 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "February 2024",
+  "Count": 225
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "January 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "January 2024",
+  "Count": 507
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "July 2023",
+  "Count": 150
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "June 2023",
+  "Count": 84
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "March 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "May 2023",
+  "Count": 36
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "November 2023",
+  "Count": 52.5
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "October 2023",
+  "Count": 91.5
+ },
+ {
+  "Disease": "Candida auris",
+  "Date": "September 2023",
+  "Count": 181.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "April 2023",
+  "Count": 141
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "August 2023",
+  "Count": 114
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "December 2023",
+  "Count": 126
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "February 2023",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "February 2024",
+  "Count": 55.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "January 2023",
+  "Count": 18
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "January 2024",
+  "Count": 163.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "July 2023",
+  "Count": 102
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "June 2023",
+  "Count": 88.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "March 2023",
+  "Count": 100.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "May 2023",
+  "Count": 73.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "November 2023",
+  "Count": 54
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "October 2023",
+  "Count": 100.5
+ },
+ {
+  "Disease": "Carbapenemase-Producing Organisms (CPO)",
+  "Date": "September 2023",
+  "Count": 115.5
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "April 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "August 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "July 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "June 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "March 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "May 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "October 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Chancroid",
+  "Date": "September 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "April 2023",
+  "Count": 178597
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "August 2023",
+  "Count": 167301
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "December 2023",
+  "Count": 142523.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "February 2023",
+  "Count": 117880.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "February 2024",
+  "Count": 67262.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "January 2023",
+  "Count": 79036
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "January 2024",
+  "Count": 186762.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "July 2023",
+  "Count": 176426
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "June 2023",
+  "Count": 140106.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "March 2023",
+  "Count": 143462.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "May 2023",
+  "Count": 149226.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "November 2023",
+  "Count": 165325.5
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "October 2023",
+  "Count": 181669
+ },
+ {
+  "Disease": "Chlamydia trachomatis infection",
+  "Date": "September 2023",
+  "Count": 148226
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "April 2023",
+  "Count": 3022.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "August 2023",
+  "Count": 2701.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "December 2023",
+  "Count": 2479.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "February 2023",
+  "Count": 298.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "February 2024",
+  "Count": 1815
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "January 2023",
+  "Count": 819
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "January 2024",
+  "Count": 4791
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "July 2023",
+  "Count": 3763.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "June 2023",
+  "Count": 2668.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "March 2023",
+  "Count": 990
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "May 2023",
+  "Count": 3423
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "November 2023",
+  "Count": 448.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "October 2023",
+  "Count": 2371.5
+ },
+ {
+  "Disease": "Coccidioidomycosis",
+  "Date": "September 2023",
+  "Count": 2457
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "April 2023",
+  "Count": 811.5
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "August 2023",
+  "Count": 1243.5
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "December 2023",
+  "Count": 649.5
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "February 2023",
+  "Count": 318
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "February 2024",
+  "Count": 375
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "January 2023",
+  "Count": 213
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "January 2024",
+  "Count": 1035
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "July 2023",
+  "Count": 1234.5
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "June 2023",
+  "Count": 774
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "March 2023",
+  "Count": 619.5
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "May 2023",
+  "Count": 768
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "November 2023",
+  "Count": 826.5
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "October 2023",
+  "Count": 861
+ },
+ {
+  "Disease": "Cryptosporidiosis",
+  "Date": "September 2023",
+  "Count": 1185
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "April 2023",
+  "Count": 15
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "August 2023",
+  "Count": 468
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "December 2023",
+  "Count": 40
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "February 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "February 2024",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "January 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "January 2024",
+  "Count": 25.5
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "July 2023",
+  "Count": 907.5
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "June 2023",
+  "Count": 216
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "March 2023",
+  "Count": 18
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "May 2023",
+  "Count": 79.5
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "November 2023",
+  "Count": 117
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "October 2023",
+  "Count": 87
+ },
+ {
+  "Disease": "Cyclosporiasis",
+  "Date": "September 2023",
+  "Count": 168
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "August 2023",
+  "Count": 58.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "December 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "February 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "February 2024",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "January 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "January 2024",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "July 2023",
+  "Count": 67.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "June 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "March 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "May 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "November 2023",
+  "Count": 79.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "October 2023",
+  "Count": 127.5
+ },
+ {
+  "Disease": "Dengue",
+  "Date": "September 2023",
+  "Count": 120
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "April 2023",
+  "Count": 181.5
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "August 2023",
+  "Count": 975
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "December 2023",
+  "Count": 411
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "February 2023",
+  "Count": 22.5
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "February 2024",
+  "Count": 27
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "January 2023",
+  "Count": 15
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "January 2024",
+  "Count": 78
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "July 2023",
+  "Count": 2001
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "June 2023",
+  "Count": 1651.5
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "March 2023",
+  "Count": 33
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "May 2023",
+  "Count": 775.5
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "November 2023",
+  "Count": 897
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "October 2023",
+  "Count": 550.5
+ },
+ {
+  "Disease": "Ehrlichiosis and Anaplasmosis",
+  "Date": "September 2023",
+  "Count": 520.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "April 2023",
+  "Count": 1215
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "August 2023",
+  "Count": 1699
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "December 2023",
+  "Count": 1123.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "February 2023",
+  "Count": 639
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "February 2024",
+  "Count": 529.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "January 2023",
+  "Count": 261
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "January 2024",
+  "Count": 1420.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "July 2023",
+  "Count": 1709.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "June 2023",
+  "Count": 1183.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "March 2023",
+  "Count": 1101
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "May 2023",
+  "Count": 1150.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "November 2023",
+  "Count": 1307.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "October 2023",
+  "Count": 1713.5
+ },
+ {
+  "Disease": "Giardiasis",
+  "Date": "September 2023",
+  "Count": 1803
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "April 2023",
+  "Count": 65553
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "August 2023",
+  "Count": 62708
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "December 2023",
+  "Count": 52548.5
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "February 2023",
+  "Count": 44956.5
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "February 2024",
+  "Count": 19971
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "January 2023",
+  "Count": 31636.5
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "January 2024",
+  "Count": 60945
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "July 2023",
+  "Count": 67162
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "June 2023",
+  "Count": 53040
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "March 2023",
+  "Count": 53115
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "May 2023",
+  "Count": 56248.5
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "November 2023",
+  "Count": 61533.5
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "October 2023",
+  "Count": 68725
+ },
+ {
+  "Disease": "Gonorrhea",
+  "Date": "September 2023",
+  "Count": 55406.5
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "April 2023",
+  "Count": 394.5
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "August 2023",
+  "Count": 396
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "December 2023",
+  "Count": 825
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "February 2023",
+  "Count": 205.5
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "February 2024",
+  "Count": 243
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "January 2023",
+  "Count": 297
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "January 2024",
+  "Count": 1068
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "July 2023",
+  "Count": 486
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "June 2023",
+  "Count": 472.5
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "March 2023",
+  "Count": 216
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "May 2023",
+  "Count": 408
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "November 2023",
+  "Count": 660
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "October 2023",
+  "Count": 559.5
+ },
+ {
+  "Disease": "Haemophilus influenzae",
+  "Date": "September 2023",
+  "Count": 366
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "August 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "January 2024",
+  "Count": 9
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "July 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "June 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "May 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "November 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "October 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hansen's disease",
+  "Date": "September 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "April 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "August 2023",
+  "Count": 18
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "December 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "February 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "February 2024",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "January 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "January 2024",
+  "Count": 25.5
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "July 2023",
+  "Count": 36
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "June 2023",
+  "Count": 25.5
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "March 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "May 2023",
+  "Count": 18
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "November 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "October 2023",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Hemolytic uremic syndrome post-diarrheal",
+  "Date": "September 2023",
+  "Count": 24
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "April 2023",
+  "Count": 241.5
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "August 2023",
+  "Count": 105
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "December 2023",
+  "Count": 66
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "February 2023",
+  "Count": 132
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "February 2024",
+  "Count": 34.5
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "January 2023",
+  "Count": 126
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "January 2024",
+  "Count": 124.5
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "July 2023",
+  "Count": 190.5
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "June 2023",
+  "Count": 96
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "March 2023",
+  "Count": 158.5
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "May 2023",
+  "Count": 175.5
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "November 2023",
+  "Count": 105
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "October 2023",
+  "Count": 90
+ },
+ {
+  "Disease": "Hepatitis A",
+  "Date": "September 2023",
+  "Count": 132
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "April 2023",
+  "Count": 196.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "August 2023",
+  "Count": 127.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "December 2023",
+  "Count": 189
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "February 2023",
+  "Count": 64.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "February 2024",
+  "Count": 60
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "January 2023",
+  "Count": 46.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "January 2024",
+  "Count": 228
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "July 2023",
+  "Count": 238.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "June 2023",
+  "Count": 130.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "March 2023",
+  "Count": 103.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "May 2023",
+  "Count": 129
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "November 2023",
+  "Count": 120
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "October 2023",
+  "Count": 136.5
+ },
+ {
+  "Disease": "Hepatitis B",
+  "Date": "September 2023",
+  "Count": 117
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "April 2023",
+  "Count": 427.5
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "August 2023",
+  "Count": 451.5
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "December 2023",
+  "Count": 351
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "February 2023",
+  "Count": 159
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "February 2024",
+  "Count": 222
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "January 2023",
+  "Count": 48
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "January 2024",
+  "Count": 504
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "July 2023",
+  "Count": 409.5
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "June 2023",
+  "Count": 519
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "March 2023",
+  "Count": 292.5
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "May 2023",
+  "Count": 379.5
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "November 2023",
+  "Count": 327
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "October 2023",
+  "Count": 268.5
+ },
+ {
+  "Disease": "Hepatitis C",
+  "Date": "September 2023",
+  "Count": 306
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "April 2023",
+  "Count": 21
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "August 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "February 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "February 2024",
+  "Count": 15
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "January 2024",
+  "Count": 15
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "July 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "June 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "March 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "May 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "October 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Influenza-associated pediatric mortality",
+  "Date": "September 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "April 2023",
+  "Count": 1827
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "August 2023",
+  "Count": 844.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "December 2023",
+  "Count": 3093
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "February 2023",
+  "Count": 946.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "February 2024",
+  "Count": 1107
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "January 2023",
+  "Count": 1693.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "January 2024",
+  "Count": 3567
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "July 2023",
+  "Count": 1138.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "June 2023",
+  "Count": 1462.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "March 2023",
+  "Count": 1125
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "May 2023",
+  "Count": 1809
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "November 2023",
+  "Count": 2505
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "October 2023",
+  "Count": 1714.5
+ },
+ {
+  "Disease": "Invasive pneumococcal disease",
+  "Date": "September 2023",
+  "Count": 1200
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "April 2023",
+  "Count": 264
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "August 2023",
+  "Count": 577.5
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "December 2023",
+  "Count": 318
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "February 2023",
+  "Count": 94.5
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "February 2024",
+  "Count": 81
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "January 2023",
+  "Count": 96
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "January 2024",
+  "Count": 366
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "July 2023",
+  "Count": 571.5
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "June 2023",
+  "Count": 487.5
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "March 2023",
+  "Count": 247.5
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "May 2023",
+  "Count": 292.5
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "November 2023",
+  "Count": 366
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "October 2023",
+  "Count": 498
+ },
+ {
+  "Disease": "Legionellosis",
+  "Date": "September 2023",
+  "Count": 615
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "August 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "December 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "February 2024",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "January 2024",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "July 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "June 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "May 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "October 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Leptospirosis",
+  "Date": "September 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "April 2023",
+  "Count": 43.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "August 2023",
+  "Count": 93.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "December 2023",
+  "Count": 33
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "February 2023",
+  "Count": 43.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "February 2024",
+  "Count": 31.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "January 2023",
+  "Count": 45
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "January 2024",
+  "Count": 55.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "July 2023",
+  "Count": 88.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "June 2023",
+  "Count": 76.5
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "March 2023",
+  "Count": 45
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "May 2023",
+  "Count": 54
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "November 2023",
+  "Count": 84
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "October 2023",
+  "Count": 84
+ },
+ {
+  "Disease": "Listeriosis",
+  "Date": "September 2023",
+  "Count": 93.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "April 2023",
+  "Count": 40.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "August 2023",
+  "Count": 114
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "December 2023",
+  "Count": 105
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "February 2023",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "February 2024",
+  "Count": 48
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "January 2023",
+  "Count": 28.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "January 2024",
+  "Count": 165
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "July 2023",
+  "Count": 97.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "June 2023",
+  "Count": 90
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "March 2023",
+  "Count": 37.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "May 2023",
+  "Count": 52.5
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "November 2023",
+  "Count": 105
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "October 2023",
+  "Count": 129
+ },
+ {
+  "Disease": "Malaria",
+  "Date": "September 2023",
+  "Count": 216
+ },
+ {
+  "Disease": "Measles",
+  "Date": "April 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Measles",
+  "Date": "August 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Measles",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "July 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "June 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Measles",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "May 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Measles",
+  "Date": "November 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Measles",
+  "Date": "October 2023",
+  "Count": 15
+ },
+ {
+  "Disease": "Measles",
+  "Date": "September 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "April 2023",
+  "Count": 96
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "August 2023",
+  "Count": 69
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "December 2023",
+  "Count": 87
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "February 2023",
+  "Count": 87
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "February 2024",
+  "Count": 36
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "January 2023",
+  "Count": 78
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "January 2024",
+  "Count": 102
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "July 2023",
+  "Count": 66
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "June 2023",
+  "Count": 96
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "March 2023",
+  "Count": 69
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "May 2023",
+  "Count": 60
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "November 2023",
+  "Count": 117
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "October 2023",
+  "Count": 102
+ },
+ {
+  "Disease": "Meningococcal disease",
+  "Date": "September 2023",
+  "Count": 81
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "April 2023",
+  "Count": 21
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "August 2023",
+  "Count": 24
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "December 2023",
+  "Count": 48
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "February 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "February 2024",
+  "Count": 16.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "January 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "January 2024",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "July 2023",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "June 2023",
+  "Count": 28.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "March 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "May 2023",
+  "Count": 24
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "November 2023",
+  "Count": 27
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "October 2023",
+  "Count": 13.5
+ },
+ {
+  "Disease": "Mumps",
+  "Date": "September 2023",
+  "Count": 28.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "April 2023",
+  "Count": 115.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "August 2023",
+  "Count": 294
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "December 2023",
+  "Count": 367.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "February 2023",
+  "Count": 82.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "February 2024",
+  "Count": 136.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "January 2023",
+  "Count": 66
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "January 2024",
+  "Count": 346.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "July 2023",
+  "Count": 192
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "June 2023",
+  "Count": 207
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "March 2023",
+  "Count": 78
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "May 2023",
+  "Count": 187.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "November 2023",
+  "Count": 481.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "October 2023",
+  "Count": 313.5
+ },
+ {
+  "Disease": "Pertussis",
+  "Date": "September 2023",
+  "Count": 201
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "August 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "December 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "July 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "June 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "May 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "October 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Psittacosis",
+  "Date": "September 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "April 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "August 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "December 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "February 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "February 2024",
+  "Count": 6
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "January 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "January 2024",
+  "Count": 30
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "July 2023",
+  "Count": 15
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "June 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "May 2023",
+  "Count": 30
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "November 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "October 2023",
+  "Count": 30
+ },
+ {
+  "Disease": "Q fever",
+  "Date": "September 2023",
+  "Count": 24
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "April 2023",
+  "Count": 142.5
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "August 2023",
+  "Count": 237
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "December 2023",
+  "Count": 103.5
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "February 2023",
+  "Count": 42
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "January 2023",
+  "Count": 133.5
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "July 2023",
+  "Count": 228
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "June 2023",
+  "Count": 162
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "March 2023",
+  "Count": 51
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "May 2023",
+  "Count": 267
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "November 2023",
+  "Count": 121.5
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "October 2023",
+  "Count": 213
+ },
+ {
+  "Disease": "Rabies",
+  "Date": "September 2023",
+  "Count": 243
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "August 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "December 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "January 2024",
+  "Count": 3
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "July 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "June 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "March 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "May 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "October 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Rubella",
+  "Date": "September 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "April 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "August 2023",
+  "Count": 37.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "December 2023",
+  "Count": 24
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "February 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "February 2024",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "January 2024",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "July 2023",
+  "Count": 30
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "June 2023",
+  "Count": 19.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "March 2023",
+  "Count": 13.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "May 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "November 2023",
+  "Count": 21
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "October 2023",
+  "Count": 27
+ },
+ {
+  "Disease": "Salmonella",
+  "Date": "September 2023",
+  "Count": 31.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "April 2023",
+  "Count": 2776.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "August 2023",
+  "Count": 6597.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "December 2023",
+  "Count": 3220.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "February 2023",
+  "Count": 927
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "February 2024",
+  "Count": 1126.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "January 2023",
+  "Count": 826.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "January 2024",
+  "Count": 3594.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "July 2023",
+  "Count": 7029.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "June 2023",
+  "Count": 4112.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "March 2023",
+  "Count": 2040
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "May 2023",
+  "Count": 3808
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "November 2023",
+  "Count": 4100.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "October 2023",
+  "Count": 5260.5
+ },
+ {
+  "Disease": "Salmonellosis",
+  "Date": "September 2023",
+  "Count": 7053
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "April 2023",
+  "Count": 874.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "August 2023",
+  "Count": 1384.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "December 2023",
+  "Count": 628.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "February 2023",
+  "Count": 373.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "February 2024",
+  "Count": 289.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "January 2023",
+  "Count": 178.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "January 2024",
+  "Count": 895.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "July 2023",
+  "Count": 1429.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "June 2023",
+  "Count": 1032
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "March 2023",
+  "Count": 469.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "May 2023",
+  "Count": 1170
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "November 2023",
+  "Count": 916.5
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "October 2023",
+  "Count": 1101
+ },
+ {
+  "Disease": "Shiga toxin-producing Escherichia coli (STEC)",
+  "Date": "September 2023",
+  "Count": 1224
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "April 2023",
+  "Count": 1075.5
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "August 2023",
+  "Count": 1534.5
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "December 2023",
+  "Count": 1053
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "February 2023",
+  "Count": 397.5
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "February 2024",
+  "Count": 582
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "January 2023",
+  "Count": 294
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "January 2024",
+  "Count": 1623
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "July 2023",
+  "Count": 1506
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "June 2023",
+  "Count": 1044
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "March 2023",
+  "Count": 780
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "May 2023",
+  "Count": 1249.5
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "November 2023",
+  "Count": 1212
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "October 2023",
+  "Count": 1539
+ },
+ {
+  "Disease": "Shigellosis",
+  "Date": "September 2023",
+  "Count": 1530
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "April 2023",
+  "Count": 21
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "August 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "December 2023",
+  "Count": 31.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "February 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "February 2024",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "January 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "January 2024",
+  "Count": 40.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "July 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "June 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "March 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "May 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "November 2023",
+  "Count": 10.5
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "October 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Streptococcal toxic shock syndrome",
+  "Date": "September 2023",
+  "Count": 7.5
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "April 2023",
+  "Count": 1843.5
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "August 2023",
+  "Count": 1525.5
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "December 2023",
+  "Count": 1122
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "February 2023",
+  "Count": 954
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "February 2024",
+  "Count": 510
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "January 2023",
+  "Count": 807
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "January 2024",
+  "Count": 1335
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "July 2023",
+  "Count": 1612.5
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "June 2023",
+  "Count": 1264.5
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "March 2023",
+  "Count": 1339.5
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "May 2023",
+  "Count": 1386
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "November 2023",
+  "Count": 1310
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "October 2023",
+  "Count": 1449
+ },
+ {
+  "Disease": "Syphilis",
+  "Date": "September 2023",
+  "Count": 1351.5
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "August 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "February 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "July 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "June 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "March 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "May 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "October 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Tetanus",
+  "Date": "September 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "April 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "August 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "July 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "June 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "March 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "May 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "November 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "October 2023",
+  "Count": 6
+ },
+ {
+  "Disease": "Toxic shock syndrome (other than Streptococcal)",
+  "Date": "September 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "April 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "August 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "December 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "January 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "July 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "June 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "May 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "October 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Trichinellosis",
+  "Date": "September 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "April 2023",
+  "Count": 680.5
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "August 2023",
+  "Count": 615.5
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "December 2023",
+  "Count": 544
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "February 2023",
+  "Count": 418.5
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "February 2024",
+  "Count": 142
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "January 2023",
+  "Count": 351
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "January 2024",
+  "Count": 199
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "July 2023",
+  "Count": 759.5
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "June 2023",
+  "Count": 599
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "March 2023",
+  "Count": 493
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "May 2023",
+  "Count": 528.5
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "November 2023",
+  "Count": 669
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "October 2023",
+  "Count": 604.5
+ },
+ {
+  "Disease": "Tuberculosis",
+  "Date": "September 2023",
+  "Count": 479
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "April 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "August 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "December 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "February 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "February 2024",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "January 2024",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "July 2023",
+  "Count": 21
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "June 2023",
+  "Count": 15
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "March 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "May 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "November 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "October 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Tularemia",
+  "Date": "September 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "April 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "August 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "December 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "February 2023",
+  "Count": 3
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "February 2024",
+  "Count": 0
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "January 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "January 2024",
+  "Count": 6
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "July 2023",
+  "Count": 1.5
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "June 2023",
+  "Count": 4.5
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "March 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "May 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "November 2023",
+  "Count": 0
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "October 2023",
+  "Count": 12
+ },
+ {
+  "Disease": "Vancomycin-intermediate Staphylococcus aureus",
+  "Date": "September 2023",
+  "Count": 9
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "April 2023",
+  "Count": 621
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "August 2023",
+  "Count": 342
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "December 2023",
+  "Count": 277.5
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "February 2023",
+  "Count": 343.5
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "February 2024",
+  "Count": 195
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "January 2023",
+  "Count": 261
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "January 2024",
+  "Count": 522
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "July 2023",
+  "Count": 357
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "June 2023",
+  "Count": 336
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "March 2023",
+  "Count": 340.5
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "May 2023",
+  "Count": 474
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "November 2023",
+  "Count": 391.5
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "October 2023",
+  "Count": 369
+ },
+ {
+  "Disease": "Varicella morbidity",
+  "Date": "September 2023",
+  "Count": 384
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "April 2023",
+  "Count": 109.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "August 2023",
+  "Count": 442.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "December 2023",
+  "Count": 117
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "February 2023",
+  "Count": 36
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "February 2024",
+  "Count": 46.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "January 2023",
+  "Count": 42
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "January 2024",
+  "Count": 91.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "July 2023",
+  "Count": 376.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "June 2023",
+  "Count": 183
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "March 2023",
+  "Count": 79.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "May 2023",
+  "Count": 144
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "November 2023",
+  "Count": 156
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "October 2023",
+  "Count": 193.5
+ },
+ {
+  "Disease": "Vibriosis",
+  "Date": "September 2023",
+  "Count": 325.5
+ }
+]

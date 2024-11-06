@@ -1,0 +1,1502 @@
+[
+  {
+    "state": "Alabama",
+    "disease": "HIV",
+    "day28": 116,
+    "total": 1392
+  },
+  {
+    "state": "Alabama",
+    "disease": "Chlamydia",
+    "day28": 180,
+    "total": 1980
+  },
+  {
+    "state": "Alabama",
+    "disease": "Gonorrhea",
+    "day28": 30,
+    "total": 270
+  },
+  {
+    "state": "Alabama",
+    "disease": "Syphilis",
+    "day28": 306,
+    "total": 3060
+  },
+  {
+    "state": "Alabama",
+    "disease": "Herpes",
+    "day28": 136,
+    "total": 1088
+  },
+  {
+    "state": "Alaska",
+    "disease": "HIV",
+    "day28": 290,
+    "total": 3480
+  },
+  {
+    "state": "Alaska",
+    "disease": "Chlamydia",
+    "day28": 254,
+    "total": 3048
+  },
+  {
+    "state": "Alaska",
+    "disease": "Gonorrhea",
+    "day28": 281,
+    "total": 3372
+  },
+  {
+    "state": "Alaska",
+    "disease": "Syphilis",
+    "day28": 231,
+    "total": 2772
+  },
+  {
+    "state": "Alaska",
+    "disease": "Herpes",
+    "day28": 290,
+    "total": 3190
+  },
+  {
+    "state": "Arizona",
+    "disease": "HIV",
+    "day28": 128,
+    "total": 1152
+  },
+  {
+    "state": "Arizona",
+    "disease": "Chlamydia",
+    "day28": 272,
+    "total": 2176
+  },
+  {
+    "state": "Arizona",
+    "disease": "Gonorrhea",
+    "day28": 316,
+    "total": 3792
+  },
+  {
+    "state": "Arizona",
+    "disease": "Syphilis",
+    "day28": 368,
+    "total": 4416
+  },
+  {
+    "state": "Arizona",
+    "disease": "Herpes",
+    "day28": 261,
+    "total": 2088
+  },
+  {
+    "state": "Arkansas",
+    "disease": "HIV",
+    "day28": 188,
+    "total": 1880
+  },
+  {
+    "state": "Arkansas",
+    "disease": "Chlamydia",
+    "day28": 191,
+    "total": 1910
+  },
+  {
+    "state": "Arkansas",
+    "disease": "Gonorrhea",
+    "day28": 264,
+    "total": 2112
+  },
+  {
+    "state": "Arkansas",
+    "disease": "Syphilis",
+    "day28": 29,
+    "total": 232
+  },
+  {
+    "state": "Arkansas",
+    "disease": "Herpes",
+    "day28": 383,
+    "total": 4596
+  },
+  {
+    "state": "California",
+    "disease": "HIV",
+    "day28": 105,
+    "total": 1155
+  },
+  {
+    "state": "California",
+    "disease": "Chlamydia",
+    "day28": 101,
+    "total": 1010
+  },
+  {
+    "state": "California",
+    "disease": "Gonorrhea",
+    "day28": 142,
+    "total": 1420
+  },
+  {
+    "state": "California",
+    "disease": "Syphilis",
+    "day28": 374,
+    "total": 4488
+  },
+  {
+    "state": "California",
+    "disease": "Herpes",
+    "day28": 326,
+    "total": 2608
+  },
+  {
+    "state": "Colorado",
+    "disease": "HIV",
+    "day28": 274,
+    "total": 2466
+  },
+  {
+    "state": "Colorado",
+    "disease": "Chlamydia",
+    "day28": 265,
+    "total": 2385
+  },
+  {
+    "state": "Colorado",
+    "disease": "Gonorrhea",
+    "day28": 170,
+    "total": 1530
+  },
+  {
+    "state": "Colorado",
+    "disease": "Syphilis",
+    "day28": 172,
+    "total": 1548
+  },
+  {
+    "state": "Colorado",
+    "disease": "Herpes",
+    "day28": 162,
+    "total": 1458
+  },
+  {
+    "state": "Connecticut",
+    "disease": "HIV",
+    "day28": 371,
+    "total": 3710
+  },
+  {
+    "state": "Connecticut",
+    "disease": "Chlamydia",
+    "day28": 74,
+    "total": 666
+  },
+  {
+    "state": "Connecticut",
+    "disease": "Gonorrhea",
+    "day28": 191,
+    "total": 2101
+  },
+  {
+    "state": "Connecticut",
+    "disease": "Syphilis",
+    "day28": 344,
+    "total": 3096
+  },
+  {
+    "state": "Connecticut",
+    "disease": "Herpes",
+    "day28": 167,
+    "total": 1336
+  },
+  {
+    "state": "Delaware",
+    "disease": "HIV",
+    "day28": 370,
+    "total": 4070
+  },
+  {
+    "state": "Delaware",
+    "disease": "Chlamydia",
+    "day28": 240,
+    "total": 2400
+  },
+  {
+    "state": "Delaware",
+    "disease": "Gonorrhea",
+    "day28": 142,
+    "total": 1278
+  },
+  {
+    "state": "Delaware",
+    "disease": "Syphilis",
+    "day28": 303,
+    "total": 3636
+  },
+  {
+    "state": "Delaware",
+    "disease": "Herpes",
+    "day28": 272,
+    "total": 2176
+  },
+  {
+    "state": "Florida",
+    "disease": "HIV",
+    "day28": 206,
+    "total": 1854
+  },
+  {
+    "state": "Florida",
+    "disease": "Chlamydia",
+    "day28": 344,
+    "total": 4128
+  },
+  {
+    "state": "Florida",
+    "disease": "Gonorrhea",
+    "day28": 204,
+    "total": 2448
+  },
+  {
+    "state": "Florida",
+    "disease": "Syphilis",
+    "day28": 35,
+    "total": 385
+  },
+  {
+    "state": "Florida",
+    "disease": "Herpes",
+    "day28": 99,
+    "total": 792
+  },
+  {
+    "state": "Georgia",
+    "disease": "HIV",
+    "day28": 222,
+    "total": 2220
+  },
+  {
+    "state": "Georgia",
+    "disease": "Chlamydia",
+    "day28": 302,
+    "total": 3020
+  },
+  {
+    "state": "Georgia",
+    "disease": "Gonorrhea",
+    "day28": 266,
+    "total": 3192
+  },
+  {
+    "state": "Georgia",
+    "disease": "Syphilis",
+    "day28": 41,
+    "total": 369
+  },
+  {
+    "state": "Georgia",
+    "disease": "Herpes",
+    "day28": 373,
+    "total": 3730
+  },
+  {
+    "state": "Hawaii",
+    "disease": "HIV",
+    "day28": 43,
+    "total": 430
+  },
+  {
+    "state": "Hawaii",
+    "disease": "Chlamydia",
+    "day28": 377,
+    "total": 3770
+  },
+  {
+    "state": "Hawaii",
+    "disease": "Gonorrhea",
+    "day28": 12,
+    "total": 144
+  },
+  {
+    "state": "Hawaii",
+    "disease": "Syphilis",
+    "day28": 131,
+    "total": 1572
+  },
+  {
+    "state": "Hawaii",
+    "disease": "Herpes",
+    "day28": 207,
+    "total": 2070
+  },
+  {
+    "state": "Idaho",
+    "disease": "HIV",
+    "day28": 48,
+    "total": 384
+  },
+  {
+    "state": "Idaho",
+    "disease": "Chlamydia",
+    "day28": 293,
+    "total": 2930
+  },
+  {
+    "state": "Idaho",
+    "disease": "Gonorrhea",
+    "day28": 13,
+    "total": 156
+  },
+  {
+    "state": "Idaho",
+    "disease": "Syphilis",
+    "day28": 226,
+    "total": 2486
+  },
+  {
+    "state": "Idaho",
+    "disease": "Herpes",
+    "day28": 80,
+    "total": 640
+  },
+  {
+    "state": "Illinois",
+    "disease": "HIV",
+    "day28": 56,
+    "total": 672
+  },
+  {
+    "state": "Illinois",
+    "disease": "Chlamydia",
+    "day28": 186,
+    "total": 2046
+  },
+  {
+    "state": "Illinois",
+    "disease": "Gonorrhea",
+    "day28": 224,
+    "total": 1792
+  },
+  {
+    "state": "Illinois",
+    "disease": "Syphilis",
+    "day28": 170,
+    "total": 1870
+  },
+  {
+    "state": "Illinois",
+    "disease": "Herpes",
+    "day28": 81,
+    "total": 729
+  },
+  {
+    "state": "Indiana",
+    "disease": "HIV",
+    "day28": 140,
+    "total": 1400
+  },
+  {
+    "state": "Indiana",
+    "disease": "Chlamydia",
+    "day28": 256,
+    "total": 2560
+  },
+  {
+    "state": "Indiana",
+    "disease": "Gonorrhea",
+    "day28": 193,
+    "total": 2123
+  },
+  {
+    "state": "Indiana",
+    "disease": "Syphilis",
+    "day28": 284,
+    "total": 2840
+  },
+  {
+    "state": "Indiana",
+    "disease": "Herpes",
+    "day28": 123,
+    "total": 1107
+  },
+  {
+    "state": "Iowa",
+    "disease": "HIV",
+    "day28": 277,
+    "total": 2216
+  },
+  {
+    "state": "Iowa",
+    "disease": "Chlamydia",
+    "day28": 114,
+    "total": 1368
+  },
+  {
+    "state": "Iowa",
+    "disease": "Gonorrhea",
+    "day28": 46,
+    "total": 552
+  },
+  {
+    "state": "Iowa",
+    "disease": "Syphilis",
+    "day28": 226,
+    "total": 2034
+  },
+  {
+    "state": "Iowa",
+    "disease": "Herpes",
+    "day28": 386,
+    "total": 3088
+  },
+  {
+    "state": "Kansas",
+    "disease": "HIV",
+    "day28": 156,
+    "total": 1404
+  },
+  {
+    "state": "Kansas",
+    "disease": "Chlamydia",
+    "day28": 31,
+    "total": 310
+  },
+  {
+    "state": "Kansas",
+    "disease": "Gonorrhea",
+    "day28": 160,
+    "total": 1440
+  },
+  {
+    "state": "Kansas",
+    "disease": "Syphilis",
+    "day28": 196,
+    "total": 1960
+  },
+  {
+    "state": "Kansas",
+    "disease": "Herpes",
+    "day28": 97,
+    "total": 1067
+  },
+  {
+    "state": "Kentucky",
+    "disease": "HIV",
+    "day28": 76,
+    "total": 760
+  },
+  {
+    "state": "Kentucky",
+    "disease": "Chlamydia",
+    "day28": 371,
+    "total": 3710
+  },
+  {
+    "state": "Kentucky",
+    "disease": "Gonorrhea",
+    "day28": 227,
+    "total": 2270
+  },
+  {
+    "state": "Kentucky",
+    "disease": "Syphilis",
+    "day28": 14,
+    "total": 112
+  },
+  {
+    "state": "Kentucky",
+    "disease": "Herpes",
+    "day28": 39,
+    "total": 351
+  },
+  {
+    "state": "Louisiana",
+    "disease": "HIV",
+    "day28": 305,
+    "total": 2440
+  },
+  {
+    "state": "Louisiana",
+    "disease": "Chlamydia",
+    "day28": 349,
+    "total": 3490
+  },
+  {
+    "state": "Louisiana",
+    "disease": "Gonorrhea",
+    "day28": 13,
+    "total": 104
+  },
+  {
+    "state": "Louisiana",
+    "disease": "Syphilis",
+    "day28": 126,
+    "total": 1260
+  },
+  {
+    "state": "Louisiana",
+    "disease": "Herpes",
+    "day28": 322,
+    "total": 3542
+  },
+  {
+    "state": "Maine",
+    "disease": "HIV",
+    "day28": 374,
+    "total": 3366
+  },
+  {
+    "state": "Maine",
+    "disease": "Chlamydia",
+    "day28": 20,
+    "total": 240
+  },
+  {
+    "state": "Maine",
+    "disease": "Gonorrhea",
+    "day28": 244,
+    "total": 1952
+  },
+  {
+    "state": "Maine",
+    "disease": "Syphilis",
+    "day28": 236,
+    "total": 1888
+  },
+  {
+    "state": "Maine",
+    "disease": "Herpes",
+    "day28": 320,
+    "total": 2880
+  },
+  {
+    "state": "Maryland",
+    "disease": "HIV",
+    "day28": 123,
+    "total": 1353
+  },
+  {
+    "state": "Maryland",
+    "disease": "Chlamydia",
+    "day28": 122,
+    "total": 1098
+  },
+  {
+    "state": "Maryland",
+    "disease": "Gonorrhea",
+    "day28": 143,
+    "total": 1144
+  },
+  {
+    "state": "Maryland",
+    "disease": "Syphilis",
+    "day28": 382,
+    "total": 3438
+  },
+  {
+    "state": "Maryland",
+    "disease": "Herpes",
+    "day28": 371,
+    "total": 4081
+  },
+  {
+    "state": "Massachusetts",
+    "disease": "HIV",
+    "day28": 146,
+    "total": 1752
+  },
+  {
+    "state": "Massachusetts",
+    "disease": "Chlamydia",
+    "day28": 97,
+    "total": 776
+  },
+  {
+    "state": "Massachusetts",
+    "disease": "Gonorrhea",
+    "day28": 244,
+    "total": 2440
+  },
+  {
+    "state": "Massachusetts",
+    "disease": "Syphilis",
+    "day28": 222,
+    "total": 2442
+  },
+  {
+    "state": "Massachusetts",
+    "disease": "Herpes",
+    "day28": 314,
+    "total": 2512
+  },
+  {
+    "state": "Michigan",
+    "disease": "HIV",
+    "day28": 63,
+    "total": 693
+  },
+  {
+    "state": "Michigan",
+    "disease": "Chlamydia",
+    "day28": 284,
+    "total": 2840
+  },
+  {
+    "state": "Michigan",
+    "disease": "Gonorrhea",
+    "day28": 85,
+    "total": 935
+  },
+  {
+    "state": "Michigan",
+    "disease": "Syphilis",
+    "day28": 147,
+    "total": 1470
+  },
+  {
+    "state": "Michigan",
+    "disease": "Herpes",
+    "day28": 286,
+    "total": 3432
+  },
+  {
+    "state": "Minnesota",
+    "disease": "HIV",
+    "day28": 337,
+    "total": 2696
+  },
+  {
+    "state": "Minnesota",
+    "disease": "Chlamydia",
+    "day28": 201,
+    "total": 2211
+  },
+  {
+    "state": "Minnesota",
+    "disease": "Gonorrhea",
+    "day28": 164,
+    "total": 1312
+  },
+  {
+    "state": "Minnesota",
+    "disease": "Syphilis",
+    "day28": 44,
+    "total": 528
+  },
+  {
+    "state": "Minnesota",
+    "disease": "Herpes",
+    "day28": 114,
+    "total": 1140
+  },
+  {
+    "state": "Mississippi",
+    "disease": "HIV",
+    "day28": 72,
+    "total": 792
+  },
+  {
+    "state": "Mississippi",
+    "disease": "Chlamydia",
+    "day28": 307,
+    "total": 2456
+  },
+  {
+    "state": "Mississippi",
+    "disease": "Gonorrhea",
+    "day28": 54,
+    "total": 594
+  },
+  {
+    "state": "Mississippi",
+    "disease": "Syphilis",
+    "day28": 396,
+    "total": 3960
+  },
+  {
+    "state": "Mississippi",
+    "disease": "Herpes",
+    "day28": 349,
+    "total": 3490
+  },
+  {
+    "state": "Missouri",
+    "disease": "HIV",
+    "day28": 285,
+    "total": 2280
+  },
+  {
+    "state": "Missouri",
+    "disease": "Chlamydia",
+    "day28": 30,
+    "total": 360
+  },
+  {
+    "state": "Missouri",
+    "disease": "Gonorrhea",
+    "day28": 355,
+    "total": 3905
+  },
+  {
+    "state": "Missouri",
+    "disease": "Syphilis",
+    "day28": 313,
+    "total": 3756
+  },
+  {
+    "state": "Missouri",
+    "disease": "Herpes",
+    "day28": 284,
+    "total": 2272
+  },
+  {
+    "state": "Montana",
+    "disease": "HIV",
+    "day28": 396,
+    "total": 3960
+  },
+  {
+    "state": "Montana",
+    "disease": "Chlamydia",
+    "day28": 239,
+    "total": 1912
+  },
+  {
+    "state": "Montana",
+    "disease": "Gonorrhea",
+    "day28": 13,
+    "total": 130
+  },
+  {
+    "state": "Montana",
+    "disease": "Syphilis",
+    "day28": 384,
+    "total": 3072
+  },
+  {
+    "state": "Montana",
+    "disease": "Herpes",
+    "day28": 336,
+    "total": 2688
+  },
+  {
+    "state": "Nebraska",
+    "disease": "HIV",
+    "day28": 114,
+    "total": 912
+  },
+  {
+    "state": "Nebraska",
+    "disease": "Chlamydia",
+    "day28": 344,
+    "total": 3784
+  },
+  {
+    "state": "Nebraska",
+    "disease": "Gonorrhea",
+    "day28": 159,
+    "total": 1272
+  },
+  {
+    "state": "Nebraska",
+    "disease": "Syphilis",
+    "day28": 256,
+    "total": 2560
+  },
+  {
+    "state": "Nebraska",
+    "disease": "Herpes",
+    "day28": 217,
+    "total": 2170
+  },
+  {
+    "state": "Nevada",
+    "disease": "HIV",
+    "day28": 278,
+    "total": 3336
+  },
+  {
+    "state": "Nevada",
+    "disease": "Chlamydia",
+    "day28": 102,
+    "total": 1122
+  },
+  {
+    "state": "Nevada",
+    "disease": "Gonorrhea",
+    "day28": 158,
+    "total": 1264
+  },
+  {
+    "state": "Nevada",
+    "disease": "Syphilis",
+    "day28": 339,
+    "total": 4068
+  },
+  {
+    "state": "Nevada",
+    "disease": "Herpes",
+    "day28": 16,
+    "total": 128
+  },
+  {
+    "state": "New Hampshire",
+    "disease": "HIV",
+    "day28": 104,
+    "total": 1248
+  },
+  {
+    "state": "New Hampshire",
+    "disease": "Chlamydia",
+    "day28": 47,
+    "total": 423
+  },
+  {
+    "state": "New Hampshire",
+    "disease": "Gonorrhea",
+    "day28": 136,
+    "total": 1224
+  },
+  {
+    "state": "New Hampshire",
+    "disease": "Syphilis",
+    "day28": 339,
+    "total": 4068
+  },
+  {
+    "state": "New Hampshire",
+    "disease": "Herpes",
+    "day28": 217,
+    "total": 2170
+  },
+  {
+    "state": "New Jersey",
+    "disease": "HIV",
+    "day28": 367,
+    "total": 2936
+  },
+  {
+    "state": "New Jersey",
+    "disease": "Chlamydia",
+    "day28": 291,
+    "total": 3201
+  },
+  {
+    "state": "New Jersey",
+    "disease": "Gonorrhea",
+    "day28": 253,
+    "total": 3036
+  },
+  {
+    "state": "New Jersey",
+    "disease": "Syphilis",
+    "day28": 116,
+    "total": 928
+  },
+  {
+    "state": "New Jersey",
+    "disease": "Herpes",
+    "day28": 317,
+    "total": 3170
+  },
+  {
+    "state": "New Mexico",
+    "disease": "HIV",
+    "day28": 268,
+    "total": 3216
+  },
+  {
+    "state": "New Mexico",
+    "disease": "Chlamydia",
+    "day28": 146,
+    "total": 1460
+  },
+  {
+    "state": "New Mexico",
+    "disease": "Gonorrhea",
+    "day28": 174,
+    "total": 2088
+  },
+  {
+    "state": "New Mexico",
+    "disease": "Syphilis",
+    "day28": 399,
+    "total": 4788
+  },
+  {
+    "state": "New Mexico",
+    "disease": "Herpes",
+    "day28": 397,
+    "total": 4764
+  },
+  {
+    "state": "New York",
+    "disease": "HIV",
+    "day28": 168,
+    "total": 1680
+  },
+  {
+    "state": "New York",
+    "disease": "Chlamydia",
+    "day28": 63,
+    "total": 693
+  },
+  {
+    "state": "New York",
+    "disease": "Gonorrhea",
+    "day28": 368,
+    "total": 4048
+  },
+  {
+    "state": "New York",
+    "disease": "Syphilis",
+    "day28": 226,
+    "total": 2034
+  },
+  {
+    "state": "New York",
+    "disease": "Herpes",
+    "day28": 391,
+    "total": 3128
+  },
+  {
+    "state": "North Carolina",
+    "disease": "HIV",
+    "day28": 299,
+    "total": 2691
+  },
+  {
+    "state": "North Carolina",
+    "disease": "Chlamydia",
+    "day28": 352,
+    "total": 3872
+  },
+  {
+    "state": "North Carolina",
+    "disease": "Gonorrhea",
+    "day28": 389,
+    "total": 4668
+  },
+  {
+    "state": "North Carolina",
+    "disease": "Syphilis",
+    "day28": 103,
+    "total": 1236
+  },
+  {
+    "state": "North Carolina",
+    "disease": "Herpes",
+    "day28": 338,
+    "total": 2704
+  },
+  {
+    "state": "North Dakota",
+    "disease": "HIV",
+    "day28": 247,
+    "total": 1976
+  },
+  {
+    "state": "North Dakota",
+    "disease": "Chlamydia",
+    "day28": 300,
+    "total": 3600
+  },
+  {
+    "state": "North Dakota",
+    "disease": "Gonorrhea",
+    "day28": 274,
+    "total": 2740
+  },
+  {
+    "state": "North Dakota",
+    "disease": "Syphilis",
+    "day28": 376,
+    "total": 3760
+  },
+  {
+    "state": "North Dakota",
+    "disease": "Herpes",
+    "day28": 393,
+    "total": 3537
+  },
+  {
+    "state": "Ohio",
+    "disease": "HIV",
+    "day28": 36,
+    "total": 360
+  },
+  {
+    "state": "Ohio",
+    "disease": "Chlamydia",
+    "day28": 163,
+    "total": 1467
+  },
+  {
+    "state": "Ohio",
+    "disease": "Gonorrhea",
+    "day28": 377,
+    "total": 3393
+  },
+  {
+    "state": "Ohio",
+    "disease": "Syphilis",
+    "day28": 14,
+    "total": 154
+  },
+  {
+    "state": "Ohio",
+    "disease": "Herpes",
+    "day28": 286,
+    "total": 3146
+  },
+  {
+    "state": "Oklahoma",
+    "disease": "HIV",
+    "day28": 255,
+    "total": 2550
+  },
+  {
+    "state": "Oklahoma",
+    "disease": "Chlamydia",
+    "day28": 305,
+    "total": 2745
+  },
+  {
+    "state": "Oklahoma",
+    "disease": "Gonorrhea",
+    "day28": 81,
+    "total": 891
+  },
+  {
+    "state": "Oklahoma",
+    "disease": "Syphilis",
+    "day28": 320,
+    "total": 3840
+  },
+  {
+    "state": "Oklahoma",
+    "disease": "Herpes",
+    "day28": 363,
+    "total": 3630
+  },
+  {
+    "state": "Oregon",
+    "disease": "HIV",
+    "day28": 105,
+    "total": 840
+  },
+  {
+    "state": "Oregon",
+    "disease": "Chlamydia",
+    "day28": 243,
+    "total": 1944
+  },
+  {
+    "state": "Oregon",
+    "disease": "Gonorrhea",
+    "day28": 331,
+    "total": 3310
+  },
+  {
+    "state": "Oregon",
+    "disease": "Syphilis",
+    "day28": 189,
+    "total": 1701
+  },
+  {
+    "state": "Oregon",
+    "disease": "Herpes",
+    "day28": 397,
+    "total": 4764
+  },
+  {
+    "state": "Pennsylvania",
+    "disease": "HIV",
+    "day28": 141,
+    "total": 1551
+  },
+  {
+    "state": "Pennsylvania",
+    "disease": "Chlamydia",
+    "day28": 59,
+    "total": 531
+  },
+  {
+    "state": "Pennsylvania",
+    "disease": "Gonorrhea",
+    "day28": 206,
+    "total": 1648
+  },
+  {
+    "state": "Pennsylvania",
+    "disease": "Syphilis",
+    "day28": 81,
+    "total": 891
+  },
+  {
+    "state": "Pennsylvania",
+    "disease": "Herpes",
+    "day28": 380,
+    "total": 3420
+  },
+  {
+    "state": "Rhode Island",
+    "disease": "HIV",
+    "day28": 66,
+    "total": 528
+  },
+  {
+    "state": "Rhode Island",
+    "disease": "Chlamydia",
+    "day28": 225,
+    "total": 2475
+  },
+  {
+    "state": "Rhode Island",
+    "disease": "Gonorrhea",
+    "day28": 181,
+    "total": 1448
+  },
+  {
+    "state": "Rhode Island",
+    "disease": "Syphilis",
+    "day28": 227,
+    "total": 2270
+  },
+  {
+    "state": "Rhode Island",
+    "disease": "Herpes",
+    "day28": 349,
+    "total": 3490
+  },
+  {
+    "state": "South Carolina",
+    "disease": "HIV",
+    "day28": 23,
+    "total": 230
+  },
+  {
+    "state": "South Carolina",
+    "disease": "Chlamydia",
+    "day28": 261,
+    "total": 2349
+  },
+  {
+    "state": "South Carolina",
+    "disease": "Gonorrhea",
+    "day28": 12,
+    "total": 144
+  },
+  {
+    "state": "South Carolina",
+    "disease": "Syphilis",
+    "day28": 381,
+    "total": 4572
+  },
+  {
+    "state": "South Carolina",
+    "disease": "Herpes",
+    "day28": 32,
+    "total": 256
+  },
+  {
+    "state": "South Dakota",
+    "disease": "HIV",
+    "day28": 397,
+    "total": 4367
+  },
+  {
+    "state": "South Dakota",
+    "disease": "Chlamydia",
+    "day28": 45,
+    "total": 360
+  },
+  {
+    "state": "South Dakota",
+    "disease": "Gonorrhea",
+    "day28": 192,
+    "total": 1920
+  },
+  {
+    "state": "South Dakota",
+    "disease": "Syphilis",
+    "day28": 208,
+    "total": 1664
+  },
+  {
+    "state": "South Dakota",
+    "disease": "Herpes",
+    "day28": 171,
+    "total": 1881
+  },
+  {
+    "state": "Tennessee",
+    "disease": "HIV",
+    "day28": 257,
+    "total": 2827
+  },
+  {
+    "state": "Tennessee",
+    "disease": "Chlamydia",
+    "day28": 379,
+    "total": 3411
+  },
+  {
+    "state": "Tennessee",
+    "disease": "Gonorrhea",
+    "day28": 296,
+    "total": 2664
+  },
+  {
+    "state": "Tennessee",
+    "disease": "Syphilis",
+    "day28": 395,
+    "total": 4345
+  },
+  {
+    "state": "Tennessee",
+    "disease": "Herpes",
+    "day28": 115,
+    "total": 1150
+  },
+  {
+    "state": "Texas",
+    "disease": "HIV",
+    "day28": 398,
+    "total": 3980
+  },
+  {
+    "state": "Texas",
+    "disease": "Chlamydia",
+    "day28": 124,
+    "total": 1488
+  },
+  {
+    "state": "Texas",
+    "disease": "Gonorrhea",
+    "day28": 199,
+    "total": 2189
+  },
+  {
+    "state": "Texas",
+    "disease": "Syphilis",
+    "day28": 169,
+    "total": 1352
+  },
+  {
+    "state": "Texas",
+    "disease": "Herpes",
+    "day28": 93,
+    "total": 837
+  },
+  {
+    "state": "Utah",
+    "disease": "HIV",
+    "day28": 34,
+    "total": 340
+  },
+  {
+    "state": "Utah",
+    "disease": "Chlamydia",
+    "day28": 130,
+    "total": 1040
+  },
+  {
+    "state": "Utah",
+    "disease": "Gonorrhea",
+    "day28": 128,
+    "total": 1536
+  },
+  {
+    "state": "Utah",
+    "disease": "Syphilis",
+    "day28": 76,
+    "total": 608
+  },
+  {
+    "state": "Utah",
+    "disease": "Herpes",
+    "day28": 365,
+    "total": 2920
+  },
+  {
+    "state": "Vermont",
+    "disease": "HIV",
+    "day28": 167,
+    "total": 1670
+  },
+  {
+    "state": "Vermont",
+    "disease": "Chlamydia",
+    "day28": 371,
+    "total": 2968
+  },
+  {
+    "state": "Vermont",
+    "disease": "Gonorrhea",
+    "day28": 337,
+    "total": 4044
+  },
+  {
+    "state": "Vermont",
+    "disease": "Syphilis",
+    "day28": 186,
+    "total": 1488
+  },
+  {
+    "state": "Vermont",
+    "disease": "Herpes",
+    "day28": 392,
+    "total": 3136
+  },
+  {
+    "state": "Virginia",
+    "disease": "HIV",
+    "day28": 208,
+    "total": 1664
+  },
+  {
+    "state": "Virginia",
+    "disease": "Chlamydia",
+    "day28": 69,
+    "total": 828
+  },
+  {
+    "state": "Virginia",
+    "disease": "Gonorrhea",
+    "day28": 302,
+    "total": 3020
+  },
+  {
+    "state": "Virginia",
+    "disease": "Syphilis",
+    "day28": 266,
+    "total": 2394
+  },
+  {
+    "state": "Virginia",
+    "disease": "Herpes",
+    "day28": 311,
+    "total": 3421
+  },
+  {
+    "state": "Washington",
+    "disease": "HIV",
+    "day28": 186,
+    "total": 1674
+  },
+  {
+    "state": "Washington",
+    "disease": "Chlamydia",
+    "day28": 90,
+    "total": 810
+  },
+  {
+    "state": "Washington",
+    "disease": "Gonorrhea",
+    "day28": 195,
+    "total": 2340
+  },
+  {
+    "state": "Washington",
+    "disease": "Syphilis",
+    "day28": 165,
+    "total": 1320
+  },
+  {
+    "state": "Washington",
+    "disease": "Herpes",
+    "day28": 165,
+    "total": 1980
+  },
+  {
+    "state": "West Virginia",
+    "disease": "HIV",
+    "day28": 99,
+    "total": 1089
+  },
+  {
+    "state": "West Virginia",
+    "disease": "Chlamydia",
+    "day28": 368,
+    "total": 4416
+  },
+  {
+    "state": "West Virginia",
+    "disease": "Gonorrhea",
+    "day28": 72,
+    "total": 792
+  },
+  {
+    "state": "West Virginia",
+    "disease": "Syphilis",
+    "day28": 265,
+    "total": 2120
+  },
+  {
+    "state": "West Virginia",
+    "disease": "Herpes",
+    "day28": 133,
+    "total": 1330
+  },
+  {
+    "state": "Wisconsin",
+    "disease": "HIV",
+    "day28": 175,
+    "total": 1575
+  },
+  {
+    "state": "Wisconsin",
+    "disease": "Chlamydia",
+    "day28": 139,
+    "total": 1390
+  },
+  {
+    "state": "Wisconsin",
+    "disease": "Gonorrhea",
+    "day28": 79,
+    "total": 632
+  },
+  {
+    "state": "Wisconsin",
+    "disease": "Syphilis",
+    "day28": 213,
+    "total": 2556
+  },
+  {
+    "state": "Wisconsin",
+    "disease": "Herpes",
+    "day28": 134,
+    "total": 1072
+  },
+  {
+    "state": "Wyoming",
+    "disease": "HIV",
+    "day28": 205,
+    "total": 2460
+  },
+  {
+    "state": "Wyoming",
+    "disease": "Chlamydia",
+    "day28": 233,
+    "total": 2330
+  },
+  {
+    "state": "Wyoming",
+    "disease": "Gonorrhea",
+    "day28": 86,
+    "total": 688
+  },
+  {
+    "state": "Wyoming",
+    "disease": "Syphilis",
+    "day28": 86,
+    "total": 946
+  },
+  {
+    "state": "Wyoming",
+    "disease": "Herpes",
+    "day28": 371,
+    "total": 3710
+  }
+]

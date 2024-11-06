@@ -35,10 +35,10 @@ const RightBox = () => {
 
       {/* Pink Box */}
       {isVisible && (
-        <div className="absolute top-0 right-0 w-[20%] h-full bg-pink-500 z-10">
-          <div className="h-[calc(100%-4rem)] bg-red-400 mt-16">
-            <div className="h-[96%] bg-green-400">
-            <div className="h-1/3 bg-blue-400">
+        <div className="absolute top-0 right-0 w-[20%] mt-32 h-full  z-10">
+          <div className="">
+            <div className="h-[96%] bg-white">
+            <div className="h-1/3 bg-white">
             <GraphComponent
                   isWeekly = {isWeekly}
                   setIsWeekly = {setIsWeekly}
@@ -49,7 +49,9 @@ const RightBox = () => {
                 /> 
 
 </div>
-<div className="h-1/3 bg-green-400">
+<hr className="my-4 border-t-2 border-blue-950 rounded-full" />
+
+<div className="h-1/3 bg-white">
 
  <GraphComponent
                   isWeekly = {isWeekly}
@@ -62,7 +64,8 @@ const RightBox = () => {
 
 
 </div>
-<div className="h-1/3 bg-red-400">
+<hr className="my-4 border-t-2 border-blue-950 rounded-full" />
+<div className="h-1/3 bg-white">
 <GraphComponent
                   isWeekly = {isWeekly}
                   setIsWeekly = {setIsWeekly}
@@ -74,7 +77,7 @@ const RightBox = () => {
 
 </div>
             </div>
-            <div className="h-[4%] bg-green-900">
+            <div className="h-[4%] ">
             <button
               onClick={toggleData}
               className={`px-4 py-2 text-white ${isWeekly ? 'bg-blue-500' : 'bg-gray-500'}`}
